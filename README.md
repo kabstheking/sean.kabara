@@ -1,2 +1,1 @@
-# sean.kabara
-# hello
+# sean.kabara, hello
